@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">pr1_OkunevVE</string>
+    <string name="app_name">Larioware</string>
+    <string name="text_hint">Everybody wanna be a superstar</string>
+    <string name="input_prompt">continue the verse...</string>
+    <string name="button_verify_label">Verify</string>
 </resources>
